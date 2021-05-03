@@ -41,7 +41,12 @@ code {
   .container {
     margin: 0;
   }
+
+  .container img{
+    height: 200px;
+    width: 200px;
+  }
   .text {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
